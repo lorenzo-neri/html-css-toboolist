@@ -24,5 +24,32 @@ main{
     background-color: #f6f9f8;
     width: 100%;
     height: 1000px;
-    
+
+}
+
+.first_container{
+    width: 60%;
+    margin: auto;
+    background-color: white;
+    padding: 10px 50px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+#first_button{
+    color: white;
+    background-color: #46adf0;
+    padding: 7px 12px;
+    border-radius: 5px;
+    border-color: #46adf0;
+    border: none;
+}
+
+#second_button{
+   color: #d4d9dd; 
+   background-color: white;
+   padding: 7px 12px;
+   border-radius: 5px;
+   border-color: #d4d9dd;
+   border: none;
 }
