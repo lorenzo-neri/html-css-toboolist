@@ -23,6 +23,8 @@ header {
 
 #title_header{
     display: inline-block;
+    vertical-align: middle;
+
 
 }
 
@@ -47,6 +49,9 @@ main{
     margin: auto;
     background-color: white;
     margin-top: 2px;
+    padding: 40px 60px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
 }
 
 #first_button{
