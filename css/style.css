@@ -65,6 +65,11 @@ main{
    border: 2px solid #d4d9dd;
 }
 
+.title_list{
+    font-size: large;
+    font-weight: 900;
+}
+
 .check{
     color: green;
     font-size: x-large;
@@ -92,4 +97,34 @@ main{
     font-size: x-small;
 }
 
-#recruiting
+#recruiting{
+    background-color: #65c0a8;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 20px;
+    font-size: x-small;
+}
+
+#mobile{
+    background-color: #f29f32; 
+    color: white;
+    padding: 5px 10px;
+    border-radius: 20px;
+    font-size: x-small;
+}
+
+#website{
+    background-color: #d863a0;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 20px;
+    font-size: x-small;
+}
+
+#sales{
+    background-color: #b1c826;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 20px;
+    font-size: x-small;
+}
